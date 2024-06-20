@@ -1,7 +1,9 @@
 ## Command Prompt
 
 C:\Users\...>(disk_name):
+
 (disk_name):\>cd (file_path)
+
 ...sass --watch style.scss:style.css
 
 ## Get the result!
